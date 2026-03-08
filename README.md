@@ -10,7 +10,7 @@ The project focuses on "fluid interaction" in MR spaces, moving away from rigid 
 * **Key Feature:** Lerp-based smoothing for disk manipulation to simulate "weight" and "drag."
 
 ## 🚀 Key Features
-* **Fluid Interaction:** Utilizes Linear Interpolation ($CurrentPosition = CurrentPosition + 0.2 \times (TargetPosition - CurrentPosition)$) to ensure responsive and smooth object movement.
+* **Fluid Interaction:** Utilizes Linear Interpolation (CurrentPosition = CurrentPosition + 0.2 * (TargetPosition - CurrentPosition)) to ensure responsive and smooth object movement.
 * **MR Passthrough:** Configured with transparent backgrounds to ground the virtual game board in the user's physical environment.
 * **Custom Particle System:** Dynamic star-particle generation with velocity and gravity physics.
 * **Thematic UI:** Features a unique "Soviet/Communist" aesthetic with external texture loading and spatial audio integration.
